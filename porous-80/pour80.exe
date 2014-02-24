@@ -1,0 +1,39 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=InstallApp
+ShowInstallProgramWindow=1
+HideExtractAnimation=1
+UseLongFileName=0
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=N
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=
+DisplayLicense=
+FinishMessage=
+TargetName=C:\Documents and Settings\sho_luv\Desktop\porous\asshole-on-80\be-asshole-on-80-100-times.exe
+FriendlyName=.
+AppLaunched=cmd /c asshole.bat
+PostInstallCmd=<None>
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="80.exe"
+FILE1="asshole.bat"
+[SourceFiles]
+SourceFiles0=C:\Documents and Settings\sho_luv\Desktop\porous\asshole-on-80\
+[SourceFiles0]
+%FILE0%=
+%FILE1%=
